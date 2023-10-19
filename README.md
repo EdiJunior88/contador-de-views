@@ -101,6 +101,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/707400366/week.md">
+				Casa_do_Codigo_VueJS
+			</a>
+		</td>
+		<td>
+			2023/10/16 9:44 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/707400366/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/662139400/week.md">
 				Consulta_Quadrinhos_v2
 			</a>
@@ -1189,7 +1205,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/10/19 6:53 PM UTC</i></small>
+<small><i>Last updated on 2023/10/19 10:14 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
