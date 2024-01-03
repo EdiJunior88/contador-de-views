@@ -549,6 +549,54 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/682313864/week.md">
+				Hcode_Cafe_Next.js_13_Potencialize_suas_Aplicacoes
+			</a>
+		</td>
+		<td>
+			2024/1/1 12:53 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/682313864/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/563093022/week.md">
+				Imersao_React_Alura
+			</a>
+		</td>
+		<td>
+			2024/1/1 12:54 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/563093022/small/week.png" height="20"> 8
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/533051979/week.md">
+				Imersao_Dev_Alura
+			</a>
+		</td>
+		<td>
+			2024/1/1 12:54 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/533051979/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/315388139/week.md">
 				IFRS_CURSO_HTML_2
 			</a>
@@ -1221,7 +1269,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/1/3 1:06 AM UTC</i></small>
+<small><i>Last updated on 2024/1/3 6:38 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
