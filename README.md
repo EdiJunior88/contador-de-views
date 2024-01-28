@@ -21,6 +21,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/749052024/week.md">
+				Astro_Documentacao
+			</a>
+		</td>
+		<td>
+			2024/1/25 2:07 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/749052024/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/634913368/week.md">
 				Aluratube_v2
 			</a>
@@ -1269,7 +1285,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/1/28 12:37 PM UTC</i></small>
+<small><i>Last updated on 2024/1/28 2:36 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
