@@ -677,6 +677,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/757176167/week.md">
+				Mini_Shopping
+			</a>
+		</td>
+		<td>
+			2024/2/11 2:33 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/757176167/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/717746242/week.md">
 				MKS_FrontEnd_Challenge
 			</a>
@@ -1301,7 +1317,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/2/14 1:04 AM UTC</i></small>
+<small><i>Last updated on 2024/2/14 2:47 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
