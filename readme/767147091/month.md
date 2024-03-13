@@ -1,7 +1,7 @@
 ## [🔙 contador-de-views](https://github.com/EdiJunior88/contador-de-views)
 | [**Week →**](https://github.com/EdiJunior88/contador-de-views/blob/master/readme/767147091/week.md) | [**Month →**](https://github.com/EdiJunior88/contador-de-views/blob/master/readme/767147091/month.md) | [**Year →**](https://github.com/EdiJunior88/contador-de-views/blob/master/readme/767147091/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [Irai_Design_Site](https://github.com/EdiJunior88/Irai_Design_Site)
+### :octocat: [Clone_Site_Design](https://github.com/EdiJunior88/Clone_Site_Design)
 ![Image of contador-de-views](https://github.com/EdiJunior88/contador-de-views/blob/master/graph/767147091/large/month.png)
 
 <details>
@@ -21,13 +21,57 @@
 	</tr>
 	<tr>
 		<td>
+			<code>2024/3/13</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/12</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/11</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/10</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<code>2024/3/9</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -316,54 +360,10 @@
 			<code>0</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2024/2/11</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2024/2/10</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2024/2/9</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2024/2/8</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2024/3/9 12:23 PM UTC</i></small>
+<small><i>Last updated on 2024/3/13 2:08 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -372,9 +372,9 @@
 [![Image of contador-de-views](https://github.com/EdiJunior88/contador-de-views/blob/master/svg/767147091/badge.svg)](https://github.com/EdiJunior88/contador-de-views/blob/master/readme/767147091/week.md)
 ```
 ### Header
-# Irai_Design_Site [<img alt="Image of contador-de-views" src="https://github.com/EdiJunior88/contador-de-views/blob/master/graph/767147091/small/week.png" height="20">](https://github.com/EdiJunior88/contador-de-views/blob/master/readme/767147091/week.md)
+# Clone_Site_Design [<img alt="Image of contador-de-views" src="https://github.com/EdiJunior88/contador-de-views/blob/master/graph/767147091/small/week.png" height="20">](https://github.com/EdiJunior88/contador-de-views/blob/master/readme/767147091/week.md)
 ```readme
-# Irai_Design_Site [<img alt="Image of contador-de-views" src="https://github.com/EdiJunior88/contador-de-views/blob/master/graph/767147091/small/week.png" height="20">](https://github.com/EdiJunior88/contador-de-views/blob/master/readme/767147091/week.md)
+# Clone_Site_Design [<img alt="Image of contador-de-views" src="https://github.com/EdiJunior88/contador-de-views/blob/master/graph/767147091/small/week.png" height="20">](https://github.com/EdiJunior88/contador-de-views/blob/master/readme/767147091/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
