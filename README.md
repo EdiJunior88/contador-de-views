@@ -245,22 +245,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/337533910/week.md">
-				Curso_em_Video_HTML5_e_CSS3_Modulo_2
-			</a>
-		</td>
-		<td>
-			2024/3/18 12:00 AM UTC
-		</td>
-		<td>
-			27
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/337533910/small/week.png" height="20"> 208
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/328673607/week.md">
 				Curso_em_Video_JavaScript
 			</a>
@@ -273,22 +257,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/328673607/small/week.png" height="20"> 63
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/358603953/week.md">
-				Cataline_HTML_e_CSS
-			</a>
-		</td>
-		<td>
-			2024/3/18 12:44 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/358603953/small/week.png" height="20"> 1
 		</td>
 	</tr>
 	<tr>
@@ -405,22 +373,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/549912182/week.md">
-				FreeCodeCamp_CSS_Flexbox
-			</a>
-		</td>
-		<td>
-			2024/3/18 12:47 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/549912182/small/week.png" height="20"> 1
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/549891757/week.md">
 				FreeCodeCamp_Principios_do_Design_Responsivo
 			</a>
@@ -437,38 +389,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/433233073/week.md">
-				FreeCodeCamp_Acessibilidade_Aplicada
-			</a>
-		</td>
-		<td>
-			2024/3/18 12:48 AM UTC
-		</td>
-		<td>
-			7
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/433233073/small/week.png" height="20"> 25
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/451653997/week.md">
-				FreeCodeCamp_JavaScript_Basico
-			</a>
-		</td>
-		<td>
-			2024/3/18 12:48 AM UTC
-		</td>
-		<td>
-			18
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/451653997/small/week.png" height="20"> 965
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/429785546/week.md">
 				FreeCodeCamp_Design_Visual_Aplicado
 			</a>
@@ -481,22 +401,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/429785546/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/428220117/week.md">
-				FreeCodeCamp_CSS_Basico
-			</a>
-		</td>
-		<td>
-			2024/3/18 12:49 AM UTC
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/428220117/small/week.png" height="20"> 18
 		</td>
 	</tr>
 	<tr>
@@ -533,22 +437,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/520505619/week.md">
-				hackathon-listaProdutos
-			</a>
-		</td>
-		<td>
-			2024/3/18 12:50 AM UTC
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/520505619/small/week.png" height="20"> 58
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/682313864/week.md">
 				Hcode_Cafe_Next.js_13_Potencialize_suas_Aplicacoes
 			</a>
@@ -561,22 +449,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/682313864/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/750943519/week.md">
-				Igma_Teste_FrontEnd
-			</a>
-		</td>
-		<td>
-			2024/3/18 12:50 AM UTC
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/750943519/small/week.png" height="20"> 46
 		</td>
 	</tr>
 	<tr>
@@ -597,22 +469,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/533051979/week.md">
-				Imersao_Dev_Alura
-			</a>
-		</td>
-		<td>
-			2024/3/18 12:51 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/533051979/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/315388139/week.md">
 				IFRS_CURSO_HTML_2
 			</a>
@@ -625,22 +481,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/315388139/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/281743425/week.md">
-				IFRS_CURSO_HTML
-			</a>
-		</td>
-		<td>
-			2024/3/18 12:52 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/281743425/small/week.png" height="20"> 1
 		</td>
 	</tr>
 	<tr>
@@ -757,22 +597,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/496411182/week.md">
-				NewTab_Academy_Angular
-			</a>
-		</td>
-		<td>
-			2024/3/18 12:55 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/496411182/small/week.png" height="20"> 4
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/528205054/week.md">
 				NewTab_Academy_Projeto_Individual_PHP
 			</a>
@@ -785,22 +609,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/528205054/small/week.png" height="20"> 62
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/437383648/week.md">
-				NewTab_Academy_Projetos
-			</a>
-		</td>
-		<td>
-			2024/3/18 12:55 AM UTC
-		</td>
-		<td>
-			4
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/437383648/small/week.png" height="20"> 4
 		</td>
 	</tr>
 	<tr>
@@ -849,22 +657,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/455918128/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/450958409/week.md">
-				NewTab_Academy_Projeto_Guiado_JavaScript
-			</a>
-		</td>
-		<td>
-			2024/3/18 12:57 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/450958409/small/week.png" height="20"> 1
 		</td>
 	</tr>
 	<tr>
@@ -1029,22 +821,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/399821676/week.md">
-				Projeto_Verificar_KWh
-			</a>
-		</td>
-		<td>
-			2024/3/18 1:01 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/399821676/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/256079566/week.md">
 				K19_Treinamentos_HTML_CSS_JAVASCRIPT
 			</a>
@@ -1057,22 +833,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/256079566/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/610956885/week.md">
-				React_Documentacao
-			</a>
-		</td>
-		<td>
-			2024/3/18 1:01 AM UTC
-		</td>
-		<td>
-			10
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/610956885/small/week.png" height="20"> 15
 		</td>
 	</tr>
 	<tr>
@@ -1141,22 +901,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/327090907/week.md">
-				School_Of_Net_HTML_Basico
-			</a>
-		</td>
-		<td>
-			2024/3/18 1:03 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/327090907/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/405986918/week.md">
 				School_Of_Net_CSS
 			</a>
@@ -1173,22 +917,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/338116633/week.md">
-				School_Of_Net_Multimidia
-			</a>
-		</td>
-		<td>
-			2024/3/18 1:04 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/338116633/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/309781038/week.md">
 				School_Of_Net_C_Shap
 			</a>
@@ -1201,22 +929,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/309781038/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/618487459/week.md">
-				TailwindCSS_2_para_Iniciantes
-			</a>
-		</td>
-		<td>
-			2024/3/18 1:04 AM UTC
-		</td>
-		<td>
-			17
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/618487459/small/week.png" height="20"> 47
 		</td>
 	</tr>
 	<tr>
@@ -1269,22 +981,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/692557106/week.md">
-				VueJS_Documentacao
-			</a>
-		</td>
-		<td>
-			2024/3/18 1:06 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/692557106/small/week.png" height="20"> 3
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/713599961/week.md">
 				world-portfolios
 			</a>
@@ -1299,25 +995,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/713599961/small/week.png" height="20"> 7
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/262135613/week.md">
-				Zabbix
-			</a>
-		</td>
-		<td>
-			2024/3/18 12:00 AM UTC
-		</td>
-		<td>
-			936
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/262135613/small/week.png" height="20"> 2959
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2024/3/20 1:53 PM UTC</i></small>
+<small><i>Last updated on 2024/3/20 6:33 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
