@@ -181,7 +181,7 @@
 			<code>1</code>
 		</td>
 		<td>
-			<code>113</code>
+			<code>8</code>
 		</td>
 	</tr>
 	<tr>
@@ -363,7 +363,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/6/15 12:36 PM UTC</i></small>
+<small><i>Last updated on 2024/6/15 6:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
