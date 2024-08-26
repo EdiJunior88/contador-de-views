@@ -37,6 +37,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/634913368/week.md">
+				Aluratube_v2
+			</a>
+		</td>
+		<td>
+			2024/8/24 12:44 AM UTC
+		</td>
+		<td>
+			32
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/634913368/small/week.png" height="20"> 261
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/498328731/week.md">
 				Angular2_Na_Pratica
 			</a>
@@ -1301,7 +1317,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/8/26 6:44 AM UTC</i></small>
+<small><i>Last updated on 2024/8/26 12:46 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
