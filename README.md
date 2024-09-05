@@ -181,6 +181,54 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/497005805/week.md">
+				Certificados
+			</a>
+		</td>
+		<td>
+			2024/9/3 12:50 AM UTC
+		</td>
+		<td>
+			70
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/497005805/small/week.png" height="20"> 542
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/373611774/week.md">
+				Codesigners_Front-End_Design_Essencial
+			</a>
+		</td>
+		<td>
+			2024/9/3 12:00 AM UTC
+		</td>
+		<td>
+			62
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/373611774/small/week.png" height="20"> 681
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/344201260/week.md">
+				Caelum_HTML_CSS_JavaScript
+			</a>
+		</td>
+		<td>
+			2024/9/3 12:51 AM UTC
+		</td>
+		<td>
+			20
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/344201260/small/week.png" height="20"> 116
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/308687595/week.md">
 				Curso_em_Video_HTML5_e_CSS3
 			</a>
@@ -1269,7 +1317,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/9/5 1:17 AM UTC</i></small>
+<small><i>Last updated on 2024/9/5 6:41 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
