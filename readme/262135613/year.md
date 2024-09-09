@@ -35,10 +35,10 @@
 			<code>2024/8/1</code>
 		</td>
 		<td>
-			<code>133</code>
+			<code>131</code>
 		</td>
 		<td>
-			<code>396</code>
+			<code>390</code>
 		</td>
 	</tr>
 	<tr>
@@ -165,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/9/8 6:41 PM UTC</i></small>
+<small><i>Last updated on 2024/9/9 1:24 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
