@@ -1125,6 +1125,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/683232400/week.md">
+				Sujeito_Programador_NextJS_do_zero_ao_avancado
+			</a>
+		</td>
+		<td>
+			2025/8/9 1:25 AM UTC
+		</td>
+		<td>
+			122
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/683232400/small/week.png" height="20"> 613
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/327090907/week.md">
 				School_Of_Net_HTML_Basico
 			</a>
@@ -1301,7 +1317,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/8/11 1:36 AM UTC</i></small>
+<small><i>Last updated on 2025/8/11 6:49 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
