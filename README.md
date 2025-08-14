@@ -629,6 +629,374 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/281743425/week.md">
+				IFRS_CURSO_HTML
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:15 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/281743425/small/week.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/345736539/week.md">
+				IGTI_Bootcamp_Desenvolvedor_Front_End
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:15 AM UTC
+		</td>
+		<td>
+			12
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/345736539/small/week.png" height="20"> 28
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/301509491/week.md">
+				learncafe_Microsoft_C_Sharp
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:16 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/301509491/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/757176167/week.md">
+				Mini_Shopping
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:16 AM UTC
+		</td>
+		<td>
+			24
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/757176167/small/week.png" height="20"> 34
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/717746242/week.md">
+				MKS_FrontEnd_Challenge
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:17 AM UTC
+		</td>
+		<td>
+			114
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/717746242/small/week.png" height="20"> 1179
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/300094398/week.md">
+				Microsoft_C_Sharp
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:17 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/300094398/small/week.png" height="20"> 25
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/580194798/week.md">
+				Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:17 AM UTC
+		</td>
+		<td>
+			17
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/580194798/small/week.png" height="20"> 51
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/567922487/week.md">
+				Microsoft_Learn_Introducao_ao_TypeScript
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:18 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/567922487/small/week.png" height="20"> 4
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/496411182/week.md">
+				NewTab_Academy_Angular
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:18 AM UTC
+		</td>
+		<td>
+			8
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/496411182/small/week.png" height="20"> 18
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/528205054/week.md">
+				NewTab_Academy_Projeto_Individual_PHP
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:18 AM UTC
+		</td>
+		<td>
+			11
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/528205054/small/week.png" height="20"> 77
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/437383648/week.md">
+				NewTab_Academy_Projetos
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:19 AM UTC
+		</td>
+		<td>
+			29
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/437383648/small/week.png" height="20"> 84
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/478305180/week.md">
+				NewTab_Academy_Projeto_Individual_React
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:19 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/478305180/small/week.png" height="20"> 10
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/492058412/week.md">
+				NewTab_Academy_Projeto_Individual_MySQL
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:20 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/492058412/small/week.png" height="20"> 22
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/455918128/week.md">
+				NewTab_Academy_Projeto_Individual_JavaScript
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:20 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/455918128/small/week.png" height="20"> 8
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/450958409/week.md">
+				NewTab_Academy_Projeto_Guiado_JavaScript
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:20 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/450958409/small/week.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/441574015/week.md">
+				NewTab_Academy_Projeto_Individual
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:21 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/441574015/small/week.png" height="20"> 27
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/441570593/week.md">
+				NewTab_Academy_Projeto_Guiado_CSS
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:21 AM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/441570593/small/week.png" height="20"> 7
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/464997189/week.md">
+				Origamid_React_Completo
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:22 AM UTC
+		</td>
+		<td>
+			65
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/464997189/small/week.png" height="20"> 312
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/429826272/week.md">
+				Origamid_HTML_e_CSS_para_Iniciantes
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:22 AM UTC
+		</td>
+		<td>
+			277
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/429826272/small/week.png" height="20"> 2655
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/676748532/week.md">
+				Origamid_TypeScript_Para_Iniciantes
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:22 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/676748532/small/week.png" height="20"> 8
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/467595690/week.md">
+				Origamid_JavaScript_Completo
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:23 AM UTC
+		</td>
+		<td>
+			17
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/467595690/small/week.png" height="20"> 88
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/634016588/week.md">
+				Portfolio_v2
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:23 AM UTC
+		</td>
+		<td>
+			81
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/634016588/small/week.png" height="20"> 272
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/743146275/week.md">
+				Previsao_do_Tempo
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:23 AM UTC
+		</td>
+		<td>
+			17
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/743146275/small/week.png" height="20"> 59
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/503549591/week.md">
 				Projeto-hashtagFinder
 			</a>
@@ -657,6 +1025,54 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/433848897/small/week.png" height="20"> 27
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/399821676/week.md">
+				Projeto_Verificar_KWh
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:25 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/399821676/small/week.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/256079566/week.md">
+				K19_Treinamentos_HTML_CSS_JAVASCRIPT
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:25 AM UTC
+		</td>
+		<td>
+			11
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/256079566/small/week.png" height="20"> 29
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/610956885/week.md">
+				React_Documentacao
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:25 AM UTC
+		</td>
+		<td>
+			16
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/610956885/small/week.png" height="20"> 31
 		</td>
 	</tr>
 	<tr>
@@ -707,9 +1123,201 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/346778408/small/week.png" height="20"> 19
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/683232400/week.md">
+				Sujeito_Programador_NextJS_do_zero_ao_avancado
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:27 AM UTC
+		</td>
+		<td>
+			122
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/683232400/small/week.png" height="20"> 613
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/327090907/week.md">
+				School_Of_Net_HTML_Basico
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:27 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/327090907/small/week.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/405986918/week.md">
+				School_Of_Net_CSS
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:28 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/405986918/small/week.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/338116633/week.md">
+				School_Of_Net_Multimidia
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:28 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/338116633/small/week.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/309781038/week.md">
+				School_Of_Net_C_Shap
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:29 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/309781038/small/week.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/618487459/week.md">
+				TailwindCSS_2_para_Iniciantes
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:29 AM UTC
+		</td>
+		<td>
+			27
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/618487459/small/week.png" height="20"> 65
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/621993095/week.md">
+				Testes_React_com_Vitest_e_Testing_Library
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:29 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/621993095/small/week.png" height="20"> 10
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/704088742/week.md">
+				teste_achievements_github
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:30 AM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/704088742/small/week.png" height="20"> 10
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/302481454/week.md">
+				Udemy_fundamentos_C_sharp
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:30 AM UTC
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/302481454/small/week.png" height="20"> 18
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/692557106/week.md">
+				VueJS_Documentacao
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:30 AM UTC
+		</td>
+		<td>
+			8
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/692557106/small/week.png" height="20"> 12
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/713599961/week.md">
+				world-portfolios
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:31 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/713599961/small/week.png" height="20"> 11
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/262135613/week.md">
+				Zabbix
+			</a>
+		</td>
+		<td>
+			2025/8/12 12:00 AM UTC
+		</td>
+		<td>
+			4654
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/262135613/small/week.png" height="20"> 11627
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/8/14 6:37 AM UTC</i></small>
+<small><i>Last updated on 2025/8/14 12:56 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
