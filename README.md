@@ -261,6 +261,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/328673607/week.md">
+				Curso_em_Video_JavaScript
+			</a>
+		</td>
+		<td>
+			2026/2/4 1:20 AM UTC
+		</td>
+		<td>
+			31
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/328673607/small/week.png" height="20"> 190
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/358603953/week.md">
 				Cataline_HTML_e_CSS
 			</a>
@@ -1301,7 +1317,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/2/6 1:43 AM UTC</i></small>
+<small><i>Last updated on 2026/2/6 7:10 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
