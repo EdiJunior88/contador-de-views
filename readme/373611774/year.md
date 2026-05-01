@@ -151,21 +151,10 @@
 			<code>20</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2025/4/1</code>
-		</td>
-		<td>
-			<code>2</code>
-		</td>
-		<td>
-			<code>14</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2026/4/30 7:11 PM UTC</i></small>
+<small><i>Last updated on 2026/5/1 2:15 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
