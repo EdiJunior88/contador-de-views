@@ -1045,6 +1045,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/256079566/week.md">
+				K19_Treinamentos_HTML_CSS_JAVASCRIPT
+			</a>
+		</td>
+		<td>
+			2026/5/25 3:03 AM UTC
+		</td>
+		<td>
+			13
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/256079566/small/week.png" height="20"> 31
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/610956885/week.md">
 				React_Documentacao
 			</a>
@@ -1073,6 +1089,38 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/322061839/small/week.png" height="20"> 8
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/341657910/week.md">
+				Rocketseat_HTML
+			</a>
+		</td>
+		<td>
+			2026/5/25 3:04 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/341657910/small/week.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/346778408/week.md">
+				Rocketseat_CSS
+			</a>
+		</td>
+		<td>
+			2026/5/25 3:05 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/346778408/small/week.png" height="20"> 19
 		</td>
 	</tr>
 	<tr>
@@ -1173,6 +1221,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/621993095/week.md">
+				Testes_React_com_Vitest_e_Testing_Library
+			</a>
+		</td>
+		<td>
+			2026/5/25 3:07 AM UTC
+		</td>
+		<td>
+			8
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/621993095/small/week.png" height="20"> 17
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/704088742/week.md">
 				teste_achievements_github
 			</a>
@@ -1253,7 +1317,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/5/27 3:22 PM UTC</i></small>
+<small><i>Last updated on 2026/5/27 8:29 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
