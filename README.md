@@ -85,22 +85,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/622950028/week.md">
-				Balta.io_Criando_um_App_com_React
-			</a>
-		</td>
-		<td>
-			2026/6/30 2:36 AM UTC
-		</td>
-		<td>
-			31
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/contador-de-views/raw/master/graph/622950028/small/week.png" height="20"> 100
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/contador-de-views/tree/master/readme/499315269/week.md">
 				Balta.io_Comecando_com_Angular
 			</a>
@@ -1317,7 +1301,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/7/2 2:10 PM UTC</i></small>
+<small><i>Last updated on 2026/7/2 7:40 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
